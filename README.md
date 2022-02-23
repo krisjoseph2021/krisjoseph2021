@@ -3,7 +3,7 @@
 
 👀 I’m interested in all things tech and AI
 
-🌱 Currently learning how to cook
+🌱 Currently learning how to master JavaScript and also learning how to cook
 
 💞️ Looking to collaborate with like-minded humans
 
