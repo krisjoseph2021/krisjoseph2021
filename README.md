@@ -1,5 +1,5 @@
 
-👋 Hi, I’m @krisjoseph2021 or simply Kris Joseph
+👋 Hi, I’m @krisjoseph2022 or simply Kris Joseph
 
 👀 I’m interested in all things tech and AI
 
@@ -10,7 +10,7 @@
 
 
 <!---
-krisjoseph2021/krisjoseph2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+krisjoseph2022/krisjoseph2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 📫 How to reach me 
 --->
